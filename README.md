@@ -7,4 +7,4 @@
 
 
 # 图片说明
-![图片说明1](https://github.com/hzx10118/hzxCamera2Demo-master/blob/master/imgs/a1.jpg)
+![图片说明1](https://github.com/hzx10118/hzxCamera2Demo-master/blob/master/imgs/a2.png)
