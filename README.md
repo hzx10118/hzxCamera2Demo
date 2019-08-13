@@ -6,5 +6,5 @@
 |E-mail|472244011@qq.com
 
 
-# 图片说明
+### 运行截图
 ![图片说明1](https://github.com/hzx10118/hzxCamera2Demo-master/blob/master/imgs/a2.png)
